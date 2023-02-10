@@ -1,6 +1,7 @@
-import identifier
+import facial_recognition
 import sys
 import cam
+import profile
 
 
 # main function
