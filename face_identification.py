@@ -6,7 +6,7 @@ mp_face_mesh = mp.solutions.face_mesh
 
 
 class FaceMesh:
-    # Path: facial_recognition.py
+    # Path: face_identification.py
 
     # constructor method
     def __init__(self, static_image_mode=False, max_num_faces=1, min_detection_confidence=0.5, min_tracking_confidence=0.5):

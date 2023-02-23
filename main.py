@@ -1,4 +1,4 @@
-import facial_recognition
+import face_identification
 import sys
 import cam
 import profile

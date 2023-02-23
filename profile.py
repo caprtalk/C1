@@ -1,4 +1,8 @@
-# Class to save and load identifiaction profiles based on facial recognition
+import mediapipe as mp
+import cv2
+import sys
+import os
+import stdlib_list
 
 
 class profile:
